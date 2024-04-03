@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **QR made easy**
+- 🔭 I’m currently working on **Name Generator**
 
-- 🌱 I’m currently learning **Express.js with Node.js**
+- 🌱 I’m currently learning **Express.js with Node.js and ESJ**
 
 - 📫 How to reach me **rksahil1804@gmail.com**
 
