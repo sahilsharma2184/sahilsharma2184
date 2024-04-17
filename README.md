@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **QR Made Easy**
 
-- 🌱 I’m currently learning **Express.js with Node.js and ESJ**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 📫 How to reach me **rksahil1804@gmail.com**
 
