@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **PostgreSQL**
 
+- Ask me about **DevOps**, **Cloud Computing**
+
 - 📫 How to reach me **rksahil1804@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
