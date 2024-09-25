@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **QR Made Easy**
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 Learning something new everyday!
 
 - 💬 Ask me about **DevOps**, **Cloud Computing**
 
