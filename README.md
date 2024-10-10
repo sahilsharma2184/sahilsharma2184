@@ -1,4 +1,4 @@
-<h1 align="center">Hey!, I'm Sahil Sharma</h1>
+<h1 align="center">Hi, I'm Sahil Sharma</h1>
 
 - 🔭 I’m currently working on **QR Made Easy**
 
