@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sahil Sharma</h1>
 
-- 🔭 I’m currently working on **QR Made Easy**
+- 🔭 I’m currently working on **Improving Latency In IoT and Cloud Computing**
 
 - 🌱 Learning something new everyday!
 
