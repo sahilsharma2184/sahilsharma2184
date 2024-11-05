@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sahil Sharma</h1>
 
-- 🔭 I’m currently working on **Improving Latency In IoT and Cloud Computing**
+- 🔭 I’m currently working on **Improving Latency In IoT and Cloud Computing For Real Time Data Transmission**
 
 - 🌱 Learning something new everyday!
 
