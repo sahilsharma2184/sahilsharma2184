@@ -4,7 +4,7 @@
 
 - 🌱 Learning something new everyday!
 
-- 💬 Ask me about **DevOps**, **Cloud Computing**
+- 💬 Ask me about **DevOps**, **Cloud Computing**, **Backend Development**
 
 - 📫 How to reach me **sahilsharma2184@gmail.com**
 
